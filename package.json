@@ -1,7 +1,7 @@
 {
   "name": "express-workshop",
   "version": "1.0.0",
-  "description": "An API REST using express.js",
+  "description": "A final project using express.js",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index",
